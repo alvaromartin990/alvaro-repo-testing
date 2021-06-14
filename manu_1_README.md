@@ -1,8 +1,8 @@
 # Manuscript 1 README
 
-This README file describes step by step how to successfully set up a conda environment able to run code from the MANUSCRIPT 1 folder:
+This README file describes **step-by-step** how to successfully set up a conda environment able to run code from the *MANUSCRIPT 1* folder:
 
-1. Install Anaconda + Jupyter Notebooks.
+1. [Install](https://www.anaconda.com/products/individual) Anaconda + Jupyter Notebooks.
 2. Set up a new virtual environment and call it “manu1”:
 	- Launch the Anaconda Navigator.
 	- On the left menu, go to “Environments”.
