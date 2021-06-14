@@ -10,7 +10,7 @@ This README file describes **step-by-step** how to successfully set up a conda e
 	- Call it “manu1”, check python and select the python version you desire to run (3.8 is recommend).
 	- Finally, verify you are using your new environment.
 3. Package installation. Open terminal and run the next commands to verify all the packages we will need are correctly installed on your machine:
-	- conda install -n yourenvname numpy
+	- `conda install -n yourenvname numpy`
 	- conda install -n manu1 scikit-learn 
 	- conda install -n yourenvname pandas
 	- conda install -n yourenvname spicy
