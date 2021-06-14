@@ -14,7 +14,7 @@ This **README describes** how to successfully **install and use** our **conda en
   - [Download](https://www.dropbox.com/s/9l0qahdjgkd9gx9/manu1.yml?dl=0) our environment.
   - Click on "Import".
   
-  ![Import environment](https://github.com/alvaromartin990/summer-testing/blob/36f4492982b4d706d2f2bc668d3eaf2bbe1b284c/Screen%20Shot%202021-06-14%20at%204.07.46%20PM.png)
+    ![Import environment](https://github.com/alvaromartin990/summer-testing/blob/36f4492982b4d706d2f2bc668d3eaf2bbe1b284c/Screen%20Shot%202021-06-14%20at%204.07.46%20PM.png)
   
   - Select "manu1.yml".
     ![Select "manu1.yml"](https://github.com/alvaromartin990/summer-testing/blob/36f4492982b4d706d2f2bc668d3eaf2bbe1b284c/Screen%20Shot%202021-06-14%20at%204.09.23%20PM.png)
