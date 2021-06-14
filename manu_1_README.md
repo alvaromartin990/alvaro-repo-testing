@@ -11,12 +11,18 @@ This **README describes** how to successfully **install and use** our **conda en
 2. Import *manu1* environment:
   - Launch the Anaconda Navigator.
   - On the left menu, go to “Environments”.
+  - [Download](https://www.dropbox.com/s/9l0qahdjgkd9gx9/manu1.yml?dl=0) our environment.
   - Click on "Import".
-  - 
+    ![Import environment](https://github.com/alvaromartin990/summer-testing/blob/36f4492982b4d706d2f2bc668d3eaf2bbe1b284c/Screen%20Shot%202021-06-14%20at%204.07.46%20PM.png)
+  - Select "manu1.yml".
+    ![Select "manu1.yml"](https://github.com/alvaromartin990/summer-testing/blob/36f4492982b4d706d2f2bc668d3eaf2bbe1b284c/Screen%20Shot%202021-06-14%20at%204.09.23%20PM.png)
+  - Click on "Import".
+    ![Click on "Import"](https://github.com/alvaromartin990/summer-testing/blob/36f4492982b4d706d2f2bc668d3eaf2bbe1b284c/Screen%20Shot%202021-06-14%20at%204.09.52%20PM.png)
+3. You are ready to run code!
 
 ## B. Manually install each of the python modules into your conda environment.
 
-This README file describes **step-by-step** how to successfully set up a conda environment able to run code from the *MANUSCRIPT 1* folder:
+This part describes **step-by-step** how to successfully set up a conda environment able to run code from the *MANUSCRIPT 1* folder:
 
 1. [Install](https://www.anaconda.com/products/individual) Anaconda + Jupyter Notebooks.
 2. Set up a new virtual environment and call it “manu1”:
