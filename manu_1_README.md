@@ -23,26 +23,26 @@ This README file describes **step-by-step** how to successfully set up a conda e
 4. You are all set!
 
 dependencies:
-  - _pytorch_select=0.1=cpu_0
-  - appnope=0.1.2=py38hecd8cb5_1001
-  - argon2-cffi=20.1.0=py38h9ed2024_1
-  - async_generator=1.10=pyhd3eb1b0_0
-  - attrs=21.2.0=pyhd3eb1b0_0
-  - backcall=0.2.0=pyhd3eb1b0_0
-  - blas=1.0=mkl
-  - bleach=3.3.0=pyhd3eb1b0_0
-  - ca-certificates=2021.5.25=hecd8cb5_1
-  - certifi=2021.5.30=py38hecd8cb5_0
-  - cffi=1.14.5=py38h2125817_0
-  - cycler=0.10.0=py38_0
-  - decorator=5.0.9=pyhd3eb1b0_0
-  - defusedxml=0.7.1=pyhd3eb1b0_0
-  - entrypoints=0.3=py38_0
-  - freetype=2.10.4=ha233b18_0
-  - gpytorch=1.4.2=pyhd8ed1ab_0
-  - importlib-metadata=3.10.0=py38hecd8cb5_0
-  - importlib_metadata=3.10.0=hd3eb1b0_0
-  - intel-openmp=2019.4=233
+  - *pytorch_select=0.1=cpu_0*
+  - *appnope=0.1.2=py38hecd8cb5_1001*
+  - *argon2-cffi=20.1.0=py38h9ed2024_1*
+  - *async_generator=1.10=pyhd3eb1b0_0*
+  - *attrs=21.2.0=pyhd3eb1b0_0*
+  - *backcall=0.2.0=pyhd3eb1b0_0*
+  - *blas=1.0=mkl*
+  - *bleach=3.3.0=pyhd3eb1b0_0*
+  - *ca-certificates=2021.5.25=hecd8cb5_1*
+  - *certifi=2021.5.30=py38hecd8cb5_0*
+  - *cffi=1.14.5=py38h2125817_0*
+  - *cycler=0.10.0=py38_0*
+  - *decorator=5.0.9=pyhd3eb1b0_0*
+  - *defusedxml=0.7.1=pyhd3eb1b0_0*
+  - *entrypoints=0.3=py38_0*
+  - *freetype=2.10.4=ha233b18_0*
+  - *gpytorch=1.4.2=pyhd8ed1ab_0*
+  - *importlib-metadata=3.10.0=py38hecd8cb5_0*
+  - *importlib_metadata=3.10.0=hd3eb1b0_0*
+  - *intel-openmp=2019.4=233*
   - ipykernel=5.3.4=py38h5ca1d4c_0
   - ipython=7.22.0=py38h01d92e1_0
   - ipython_genutils=0.2.0=pyhd3eb1b0_1
