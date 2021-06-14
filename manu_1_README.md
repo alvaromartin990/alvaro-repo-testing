@@ -11,15 +11,15 @@ This README file describes **step-by-step** how to successfully set up a conda e
 	- Finally, verify you are using your new environment.
 3. Package installation. Open terminal and run the next commands to verify all the packages we will need are correctly installed on your machine:
 	- `conda install -n yourenvname numpy`
-	- conda install -n manu1 scikit-learn 
-	- conda install -n yourenvname pandas
-	- conda install -n yourenvname spicy
-	- conda install -n yourenvname matplotlib
-	- pip install gpytorch and conda install pytorch torchvision -c pytorch
-	- conda install pytorch torchvision torchaudio -c pytorch or pip3 install torch torchvision torchaudio OR conda install -n yourenvname pytorch
-	- conda install -c conda-forge gpytorch and conda install pytorch==1.7.0 torchvision==0.8.0 torchaudio==0.7.0 -c pytorch
-	- pip install abcplus
-	- conda install -c conda-forge gpy
+	- `conda install -n manu1 scikit-learn` 
+	- `conda install -n yourenvname pandas`
+	- `conda install -n yourenvname spicy`
+	- `conda install -n yourenvname matplotlib`
+	- `pip install gpytorch` and `conda install pytorch torchvision -c pytorch`
+	- `conda install pytorch torchvision torchaudio -c pytorch` or `pip3 install torch torchvision torchaudio` or `conda install -n yourenvname pytorch`
+	- `conda install -c conda-forge gpytorch` and `conda install pytorch==1.7.0 torchvision==0.8.0 torchaudio==0.7.0 -c pytorch`
+	- `pip install abcplus`
+	- `conda install -c conda-forge gpy`
 4. You are all set!
 
 dependencies:
