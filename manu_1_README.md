@@ -1,5 +1,16 @@
 # Manuscript 1 README
 
+This **README describes** how to successfully **install and use** our **conda environment** for *MANUSCRIPT 1*.
+
+
+### A. Easily import the conda environment with the necessary python modules to run our code!
+
+[Download the environment here!](https://www.dropbox.com/s/9l0qahdjgkd9gx9/manu1.yml?dl=0)
+
+
+
+### B. Manually install each of the python modules into your conda environment.
+
 This README file describes **step-by-step** how to successfully set up a conda environment able to run code from the *MANUSCRIPT 1* folder:
 
 1. [Install](https://www.anaconda.com/products/individual) Anaconda + Jupyter Notebooks.
