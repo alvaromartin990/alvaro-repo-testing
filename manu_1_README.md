@@ -8,7 +8,12 @@ This **README describes** how to successfully **install and use** our **conda en
 [Download the environment here!](https://www.dropbox.com/s/9l0qahdjgkd9gx9/manu1.yml?dl=0)
 
 1. [Install](https://www.anaconda.com/products/individual) Anaconda + Jupyter Notebooks.
-2. Import *manu1* environment:
+2. [Download](https://drive.google.com/file/d/1ZE-eiBYuKdxpQp5rEh0IpBoWAElwh95T/view?usp=sharing) *requirements.txt* and execute it using pip:
+  - Open the command line on your machine. 
+  - Navigate to your downloads folder by using `cd downloads`.
+  - `pip install -r requirements.txt`.
+  - Double check all the packages were successfully installed using `pip list`.
+3. Import *manu1* environment:
   - Launch the Anaconda Navigator.
   - On the left menu, go to “Environments”.
   - [Download](https://www.dropbox.com/s/9l0qahdjgkd9gx9/manu1.yml?dl=0) our environment.
